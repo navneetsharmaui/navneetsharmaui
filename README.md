@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**navneetsharmaui/navneetsharmaui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught Fullstack developer, with strong focus and inclination on user interface and experience.
 
-Here are some ideas to get you started:
+**About me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+
+- ❤️ I love writing code in TypeScript and Javaccript `(Typescript first for obvious reasons)`, and building fun experiment projects.
+
+- 💬 Ask me about anything [here](https://github.com/navneetsharmaui/navneetsharmaui/discussions)
+
+- 🔭 Go through my repositories to see my coding style and approach.
+
+- 📫 reach me at [Twitter](https://twitter.com/asnavneetsharma) and [email](mailto:navneetnnavneet1@gmail.com)
+
+- 👯 I’m looking to collaborate on [Sveltekit Starter](https://github.com/navneetsharmaui/sveltekit-starter) and [Sveltekit Blog](https://github.com/navneetsharmaui/sveltekit-blog)
