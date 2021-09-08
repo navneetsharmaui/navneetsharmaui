@@ -4,7 +4,7 @@ I'm a self-taught Fullstack developer, with strong focus and inclination on user
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 💼 Fullstack developer working remotely.
 
 - ❤️ I love writing code in TypeScript and Javaccript `(Typescript first for obvious reasons)`, and building fun experiment projects.
 
