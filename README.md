@@ -70,3 +70,5 @@ I'm a self-taught Fullstack developer, with strong focus and inclination on user
     </a>
 
 </details>
+
+[![GitHub Contributions](https://raw.githubusercontent.com/navneetsharmaui/navneetsharmaui/output/github-contribution-grid-snake.svg)](https://github.com/navneetsharmaui)
