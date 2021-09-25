@@ -1,4 +1,4 @@
-<p align="center"><a href="https://navneetsharma.xyz"><img width="80%" src="./images/navneet-sharma.png" /></a></p>
+<p align="center"><a href="https://navneetsharma.xyz"><img width="100%" height="auto" src="./images/navneet-sharma.png" /></a></p>
 
 ### Hi there 👋
 
