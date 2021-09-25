@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 I'm a self-taught Fullstack developer, with strong focus and inclination on user interface and experience.
-
-**About me**
+##### About me
 
 - 💼 Fullstack developer working remotely.
 
@@ -17,3 +16,12 @@ I'm a self-taught Fullstack developer, with strong focus and inclination on user
 - 👯 I’m looking to collaborate on [Sveltekit Starter](https://github.com/navneetsharmaui/sveltekit-starter) and [Sveltekit Blog](https://github.com/navneetsharmaui/sveltekit-blog)
 
 - 🏎️ I'm a fan of Formula one
+
+<details>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+    <a href='https://profile.codersrank.io/user/navneetsharmaui/'>
+        <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=navneetsharmaui&width=500&padding=30web&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,reactjs,scss,shell,svelte,swift,typescript,vue&show-other-skills=true'>
+    </a>
+
+</details>
