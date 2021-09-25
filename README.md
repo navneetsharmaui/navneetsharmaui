@@ -23,7 +23,7 @@ I'm a self-taught Fullstack developer, with strong focus and inclination on user
   <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
   <br/>
     <a href='https://profile.codersrank.io/user/navneetsharmaui/'>
-        <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=navneetsharmaui&width=500&padding=30web&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,reactjs,scss,shell,svelte,swift,typescript,vue&show-other-skills=true'>
+        <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=navneetsharmaui&width=800&padding=30web&skills=angular,batchfile,c,C%23,coffeescript,dart,go,html,json,java,javascript,less,mysql,php,pandas,perl,reactjs,scss,shell,svelte,swift,typescript,vue&show-other-skills=true'>
     </a>
 
 </details>
