@@ -1,3 +1,5 @@
+<p align="center"><a href="https://navneetsharma.xyz"><img width="80%" src="./images/navneet-sharma.png" /></a></p>
+
 ### Hi there 👋
 
 I'm a self-taught Fullstack developer, with strong focus and inclination on user interface and experience.
