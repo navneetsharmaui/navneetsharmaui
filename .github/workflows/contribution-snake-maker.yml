@@ -20,7 +20,7 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg
           gif_out_path: dist/github-contribution-grid-snake.gif
-		  
+
       - run: git status
 
       - name: push github-contribution-grid-snake.svg and github-contribution-grid-snake.svg to the output branch
