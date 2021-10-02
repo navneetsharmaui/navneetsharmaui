@@ -19,7 +19,7 @@ I'm a self-taught Fullstack developer, with strong focus and inclination on user
 
 - 🏎️ I'm a fan of Formula one
 
-![](https://hit.yhype.me/github/profile?user_id=11630812&color=0ca4a5)
+![](https://komarev.com/ghpvc/?username=navneetsharmaui&label=Profile%20views&color=0ca4a5)
 
 <a alt="Github Profile Link" align="center" href="https://github.com/navneetsharmaui">
     <img align="center" alt= "stats card" height="200px" width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=navneetsharmaui&theme=blood&hide_border=true&fire=DD2311FF"/>
@@ -29,7 +29,6 @@ I'm a self-taught Fullstack developer, with strong focus and inclination on user
 <p width="100%" align="left">
     <a alt="Navneet Sharma's Twitter profile" href="https://twitter.com/asnavneetsharma" target="_blank"><img src="https://img.shields.io/twitter/follow/asnavneetsharma?logo=twitter&style=for-the-badge" alt="asnavneetsharma" /></a>
 </p>
-
 
 ##### Languages and Tools
 
