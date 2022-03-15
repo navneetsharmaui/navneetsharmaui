@@ -13,7 +13,7 @@ I'm a self-taught Fullstack developer, with strong focus and inclination on user
 
 - 💬 Ask me about anything [here](https://github.com/navneetsharmaui/navneetsharmaui/discussions)
 
-- 📫 reach me at [Twitter](https://twitter.com/asnavneetsharma) and [email](mailto:navneetnnavneet1@gmail.com)
+- 📫 reach me at [Twitter](https://twitter.com/senavneetsharma) and [email](mailto:navneetnnavneet1@gmail.com)
 
 - 👯 I’m looking to collaborate on [Sveltekit Starter](https://github.com/navneetsharmaui/sveltekit-starter) and [Sveltekit Blog](https://github.com/navneetsharmaui/sveltekit-blog)
 
