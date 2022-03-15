@@ -27,7 +27,7 @@ I'm a self-taught Fullstack developer, with strong focus and inclination on user
 
 <br/>
 <p width="100%" align="left">
-    <a alt="Navneet Sharma's Twitter profile" href="https://twitter.com/asnavneetsharma" target="_blank"><img src="https://img.shields.io/twitter/follow/asnavneetsharma?logo=twitter&style=for-the-badge" alt="asnavneetsharma" /></a>
+    <a alt="Navneet Sharma's Twitter profile" href="https://twitter.com/senavneetsharma" target="_blank"><img src="https://img.shields.io/twitter/follow/senavneetsharma?logo=twitter&style=for-the-badge" alt="senavneetsharma" /></a>
 </p>
 
 ##### Languages and Tools
